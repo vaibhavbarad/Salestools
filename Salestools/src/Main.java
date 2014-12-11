@@ -12,8 +12,9 @@ public class Main {
 	private static void displayGreating() {
 		System.out.println("HELLO ONE");
 		System.out.println("Hello TWO");
-		
+		System.out.println("Hello ");
 		System.out.println("Hello vaibhav");
+		
 		
 	}
 
